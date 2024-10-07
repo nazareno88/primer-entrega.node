@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "status": true,
+    "title": "Jordan 4 Black Cat",
+    "description": " Una silueta monocromática de cuero nobuck y acabados mate de grafito se combinan con características OG reconocibles, como moldes de carcasa rígida que sujetan el tirante de cordones y una red transpirable en el empeine.",
+    "price": 359000,
+    "stock": 2,
+    "category": "unisex",
+    "thumbnails": "https://stockx.com/es-us/air-jordan-4-retro-black-cat-2020-gs"
+  },
+  {
+    "id": 2,
+    "status": true,
+    "title": "Nike Tiempo Emerald Legend 10 Academy",
+    "description": " El cuero con diseño avanzado FlyTouch Lite es increíblemente suave. Ayuda a que el calzado se amolde al pie para brindar comodidad sin sobrecargar el material. La confección de la lengüeta con acolchado adicional te brinda una sensación de seguridad y comodidad en las áreas clave. El forro de microfibra crea una sensación premium.",
+    "price": 155000,
+    "stock": 8,
+    "category": "Hombre",
+    "thumbnails": "https://nikearprod.vtexassets.com/arquivos/ids/1002162-800-800?width=800&height=800&aspect=true"
+  }
+]
